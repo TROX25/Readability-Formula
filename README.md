@@ -10,8 +10,8 @@ This is a C program that analyzes the readability of a given block of text using
   - Words
   - Sentences
 - Calculates the **readability grade level** based on the **Coleman–Liau formula**:
-
-index = 0.0588 * L - 0.296 * S - 15.8
+  
+<h3 align="center"><strong>index = 0.0588 × L - 0.296 × S - 15.8</strong></h3>
 
 Where:
 
